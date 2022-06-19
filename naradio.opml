@@ -1,9 +1,5 @@
 <opml version="1.0">
-<head title="NARadio">
-<expansionState/>
-</head>
-<body>
-<outline text="NARADIO">
+
 <outline text="NARADIO" type="audio" URL="http://stream1.expolab.nl:8000/naradio" icon="https://rararadio.org/wp-content/uploads/2019/12/Rararadio-logo-correct-colors.png"
 
 </outline>
